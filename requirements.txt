@@ -4,3 +4,5 @@ python-dotenv
 python-multipart
 pdfplumber
 python-docx
+pytest
+ruff
