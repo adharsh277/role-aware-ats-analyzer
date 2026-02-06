@@ -35,9 +35,9 @@ Built with FastAPI, designed with DevOps best practices.
 
 ## 📦 How to Run Locally
 
-pip install -r requirements.txt
-cp .env.example .env
-uvicorn app.main:app --reload
+## pip install -r requirements.txt
+## cp .env.example .env
+## uvicorn app.main:app --reload
 
 ## How to Use the API
 Analyze a Resume
