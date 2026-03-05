@@ -10,9 +10,7 @@ A backend ATS (Applicant Tracking System) analyzer that:
 - Returns missing skills and improvement suggestions
 
 Built with FastAPI, designed with DevOps best practices.
-
 ---
-
 ## 🚀 Features
 
 - Resume upload (`POST /analyze`)
