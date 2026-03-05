@@ -1,6 +1,7 @@
 # Role-Aware ATS Analyzer — FastAPI Backend with CI/CD & DevSecOps
 Built a role-aware ATS backend using FastAPI that analyzes resumes, detects job roles, scores skill alignment, and enforces quality via CI/CD pipelines, testing, linting, security scanning, and Dockerized runtime.
 
+
 # ATS Analyzer (Role-Aware, Rule-Based)
 
 A backend ATS (Applicant Tracking System) analyzer that:
