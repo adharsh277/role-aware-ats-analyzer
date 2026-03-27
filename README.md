@@ -3,6 +3,7 @@ Built a role-aware ATS backend using FastAPI that analyzes resumes, detects job 
 
 # ATS Analyzer (Role-Aware, Rule-Based)
 
+
 A backend ATS (Applicant Tracking System) analyzer that:
 - Accepts resumes (PDF / DOCX)
 - Detects the most likely job role
